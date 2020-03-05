@@ -1,0 +1,27 @@
+// Color
+$color-base: #222;
+$color-primary: #258dca;
+$color-secondary: #4cd964;
+$color-caution: #c50c0c;
+$color-border: #d4d4d4;
+$color-effect: #c4d9fc;
+
+// Fonts
+$fontFamily-ja: Ubuntu, '游ゴシック Medium', 'Yu Gothic Medium', '游ゴシック体', YuGothic, 'ヒラギノ角ゴ ProN W3', Hiragino Kaku Gothic ProN, Arial, 'メイリオ', Meiryo, sans-serif;
+$fontSize-pc: 1.6rem;
+$fontSize-sp: 1.5rem;
+$lineHeight-pc: 1.7;
+$lineHeight-sp: 1.7;
+
+// Animation
+$easing: cubic-bezier(0.46, 0.03, 0.52, 0.96);
+$duration: 0.4s;
+
+// Width
+$maxWidth: 1024px;
+
+// Breakpoints
+$breakpoints: (
+  sp: 767px,
+  tablet: 884px
+);
