@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ATexts initialized snapshot 1`] = `
+<p
+  class="aTexts"
+  style="--size: 16px; --lineHeight: 1.9;"
+/>
+`;
