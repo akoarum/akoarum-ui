@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AChip initialized snapshot 1`] = `
+<i
+  class="aChip"
+>
+  テキスト
+</i>
+`;
