@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ACheckboxes initialized snapshot 1`] = `
+<ul
+  class="aCheckboxes"
+>
+  <li
+    class="aCheckboxes__item"
+  >
+    <label
+      class="aCheckboxes__label"
+    >
+      <input
+        class="aCheckboxes__input"
+        name="test"
+        type="checkbox"
+        value="1"
+      />
+       
+      <span
+        class="aCheckboxes__text"
+      >
+        項目1
+      </span>
+    </label>
+  </li>
+  <li
+    class="aCheckboxes__item"
+  >
+    <label
+      class="aCheckboxes__label"
+    >
+      <input
+        class="aCheckboxes__input"
+        name="test"
+        type="checkbox"
+        value="2"
+      />
+       
+      <span
+        class="aCheckboxes__text"
+      >
+        項目2
+      </span>
+    </label>
+  </li>
+  <li
+    class="aCheckboxes__item"
+  >
+    <label
+      class="aCheckboxes__label"
+    >
+      <input
+        class="aCheckboxes__input"
+        name="test"
+        type="checkbox"
+        value="3"
+      />
+       
+      <span
+        class="aCheckboxes__text"
+      >
+        項目3
+      </span>
+    </label>
+  </li>
+</ul>
+`;
