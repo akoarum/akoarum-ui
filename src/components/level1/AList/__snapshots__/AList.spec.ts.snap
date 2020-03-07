@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AList initialized snapshot 1`] = `
+<ul
+  class="aList"
+>
+  <li
+    class="aList__item"
+  >
+    アメリカンショートヘア
+  </li>
+  <li
+    class="aList__item"
+  >
+    マンチカン
+  </li>
+  <li
+    class="aList__item"
+  >
+    ノルウェイジャンフォレストキャット
+  </li>
+  <li
+    class="aList__item"
+  >
+    スコティッシュフォールド
+  </li>
+</ul>
+`;
