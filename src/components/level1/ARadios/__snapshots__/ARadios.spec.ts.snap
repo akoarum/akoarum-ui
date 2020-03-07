@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ARadios initialized snapshot 1`] = `
+<ul
+  class="aRadios"
+>
+  <li
+    class="aRadios__item"
+  >
+    <label
+      class="aRadios__label"
+    >
+      <input
+        class="aRadios__input"
+        name="radio"
+        type="radio"
+        value="1"
+      />
+       
+      <span
+        class="aRadios__text"
+      >
+        項目1
+      </span>
+    </label>
+  </li>
+  <li
+    class="aRadios__item"
+  >
+    <label
+      class="aRadios__label"
+    >
+      <input
+        class="aRadios__input"
+        name="radio"
+        type="radio"
+        value="2"
+      />
+       
+      <span
+        class="aRadios__text"
+      >
+        項目2
+      </span>
+    </label>
+  </li>
+  <li
+    class="aRadios__item"
+  >
+    <label
+      class="aRadios__label"
+    >
+      <input
+        class="aRadios__input"
+        name="radio"
+        type="radio"
+        value="3"
+      />
+       
+      <span
+        class="aRadios__text"
+      >
+        項目3
+      </span>
+    </label>
+  </li>
+</ul>
+`;
