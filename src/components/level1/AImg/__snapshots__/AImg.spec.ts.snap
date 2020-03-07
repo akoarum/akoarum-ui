@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AImg initialized snapshot 1`] = `
+<img
+  alt="代替テキスト"
+  class="aImg"
+  src="https://dummyimage.com/300x200/ccc/fff.png"
+  srcset="https://dummyimage.com/600x400/ccc/fff.png 2x, https://dummyimage.com/300x200/ccc/fff.png 1x"
+/>
+`;
