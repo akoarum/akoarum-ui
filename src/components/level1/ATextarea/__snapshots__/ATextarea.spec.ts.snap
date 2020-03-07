@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ATextarea initialized snapshot 1`] = `
+<textarea
+  class="aTextarea"
+  style="--width: auto; --height: 160px;"
+/>
+`;
