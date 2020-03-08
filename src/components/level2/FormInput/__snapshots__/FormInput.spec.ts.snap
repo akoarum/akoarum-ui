@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormInput initialized snapshot 1`] = `
+<div
+  class="formInput"
+>
+  <ainput-stub
+    aria-invalid="false"
+    class="formInput__input"
+    id="name"
+    name="name"
+    type="text"
+    value=""
+  />
+   
+  <!---->
+</div>
+`;
