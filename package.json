@@ -56,7 +56,7 @@
     "flush-promises": "^1.0.2",
     "husky": "^4.2.3",
     "hygen": "^5.0.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prettier": "^1.19.1",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
